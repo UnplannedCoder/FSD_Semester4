@@ -1,0 +1,10 @@
+MeetUp - 23/2/2026
+
+1️⃣ Computer Science and Engineering:-
+Computer Science and Engineering (CSE) is a dynamic field that focuses on the design, development, and application of computer systems and software. It combines theoretical foundations of computation with practical techniques for solving real-world problems. In the early semesters, students learn programming languages like C++ to build problem-solving skills, along with subjects such as Database Management Systems, Data Structures, and Software Engineering. With the rapid advancement of technology, CSE plays a crucial role in areas like artificial intelligence, cloud computing, cybersecurity, and software development.
+
+2️⃣ Database Management System (DBMS):-
+A Database Management System (DBMS) is software that enables users to create, manage, and manipulate databases efficiently. It ensures data consistency, integrity, and security while allowing multiple users to access data simultaneously. Concepts such as functional dependencies, normalization, and transaction management help in organizing data effectively and reducing redundancy. DBMS is widely used in banking systems, e-commerce platforms, educational institutions, and enterprise applications to handle large volumes of structured data.
+
+3️⃣ DevOps:-
+DevOps is a modern software development approach that integrates development and operations teams to improve collaboration and productivity. It focuses on automation, continuous integration, continuous delivery (CI/CD), and infrastructure as code. Tools like Git, Docker, Kubernetes, and Jenkins help in automating software deployment and monitoring. DevOps enhances software quality, reduces development time, and ensures faster delivery of applications in real-world industry environments.
